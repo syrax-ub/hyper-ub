@@ -2,7 +2,7 @@
 
 
   ### Current Projects: 
-<a href="https://github.com/hyper-ub/saber"> telegram chat management bot.</a>
+<a href="https://github.com/hyper-ub/saber"> saber telegram chat management bot.</a>
 
 ![hyper's Github stats](https://github-readme-stats.vercel.app/api?username=hyper-ub&show_icons=true&theme=dracula)
 
