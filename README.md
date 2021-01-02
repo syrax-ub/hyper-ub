@@ -8,3 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-ub&hide=dockerfile)](https://github.com/hyper-ub)
 
+
+[![Top 
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-ub=gotham&layout=compact)](https://github.com/hyper-ub/github-readme-stats)
